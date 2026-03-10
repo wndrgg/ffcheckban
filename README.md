@@ -1,7 +1,6 @@
 # 🔍 Bot de Discord CheckBan Free Fire
-<p align="center">
-  <img src="https://files.catbox.moe/egna6n.gif" width="100%">
-</p>
+![preview](https://files.catbox.moe/egna6n.gif)
+
 ![Status](https://img.shields.io/badge/status-ativo-brightgreen)
 
 Um bot de Discord para verificar se uma conta de Free Fire está banida, utilizando o ID do usuário. Também inclui um servidor de status baseado em Flask.
