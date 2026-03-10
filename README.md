@@ -133,4 +133,4 @@ Este projeto está licenciado sob a Licença MIT. Sinta-se à vontade para usar 
 
 ## Autor
 
-[Corleone GG](https://github.com/corleonegg)
+[ꅐꋊ꒯ꋪ 么](https://github.com/wndrgg)
