@@ -237,4 +237,4 @@ Este projeto está licenciado sob a **Licença MIT**.
 
 ## Autor
 
-[ꅐꋊ꒯ꋪ 么](https://github.com/wndrgg)
+[garakigg](https://github.com/garakigg)
